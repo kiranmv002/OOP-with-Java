@@ -7,16 +7,40 @@ A day-by-day Java learning journey focused on **Object Oriented Programming** co
 
 ---
 
-## 🗺️ Learning Plan
+## 📝 What I Have Done So Far
 
-| Week | Topics |
-|------|--------|
-| Week 1 | Basics, Data Types, Operators |
-| Week 2 | Conditions, Loops, Arrays |
-| Week 3 | Methods, String Handling |
-| Week 4 | Classes, Objects, Inheritance |
-| Week 5 | Polymorphism, Abstraction |
-| Week 6 | Collections, Exception Handling |
+---
+
+### ✅ day 1 — hello world & basics
+
+file → `Day01-Basics/HelloWorld.java`
+
+- java is a compiled language, you write code and the compiler converts it to bytecode.
+- every java program needs a `main` method — it is the entry point of the program.
+- `System.out.println()` is used to print output to the console.
+- java is case sensitive, so `Main` and `main` are different.
+
+---
+
+### ✅ day 2 — data types
+
+file → `Day02-DataTypes/DataTypes.java`
+
+- java has primitive data types like `int`, `float`, `char`, `boolean` and `double`.
+- `String` is not a primitive type, it is an object in java.
+- variables must be declared with a type before using them.
+- `float` values need an `f` at the end like `95.5f`, otherwise java treats it as `double`.
+
+---
+
+### ✅ day 3 — operators
+
+file → `Day03-Operators/Operators.java`
+
+- arithmetic operators are `+`, `-`, `*`, `/`, `%`.
+- relational operators compare two values and return `true` or `false`.
+- logical operators `&&` (and), `||` (or), `!` (not) are used to combine conditions.
+- `%` gives the remainder of a division, useful to check even or odd numbers.
 
 ---
 
