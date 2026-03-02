@@ -94,7 +94,7 @@ Learn → Code → Commit → Push
 
 ## 🙋‍♂️ Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-kiran-black?style=flat&logo=github)](https://github.com/kiranmv002)
+[![GitHub](https://img.shields.io/badge/GitHub-kiranmv002-black?style=flat&logo=github)](https://github.com/kiranmv002)
 
 ---
 
