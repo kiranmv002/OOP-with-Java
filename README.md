@@ -22,6 +22,18 @@ file → `Day01-Basics/HelloWorld.java`
 
 ---
 
+### ✅ day 2 — data types
+
+file → `Week1-Basics/Day02-DataTypes/`
+
+- java has primitive data types like `int`, `float`, `double`, `char` and `boolean`.
+- `String` is not a primitive type, it is an object in java.
+- `float` values need an `f` at the end like `95.5f`, otherwise java treats it as `double`.
+- typecasting means converting one type to another — widening is automatic, narrowing is manual.
+- every data type has a limit — going beyond that limit causes overflow and value wraps around.
+
+---
+
 ## 📈 Progress
 
 ### Week 1 — Basics
