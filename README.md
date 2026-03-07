@@ -13,7 +13,7 @@ A day-by-day Java learning journey focused on **Object Oriented Programming** co
 
 ### ✅ day 1 — hello world & basics
 
-file → `Day01-Basics/HelloWorld.java`
+file → `Week1-Basics/Day01-HelloWorld/`
 
 - java is a compiled language, you write code and the compiler converts it to bytecode.
 - every java program needs a `main` method — it is the entry point of the program.
@@ -31,6 +31,19 @@ file → `Week1-Basics/Day02-DataTypes/`
 - `float` values need an `f` at the end like `95.5f`, otherwise java treats it as `double`.
 - typecasting means converting one type to another — widening is automatic, narrowing is manual.
 - every data type has a limit — going beyond that limit causes overflow and value wraps around.
+
+---
+
+### ✅ day 3 — operators
+
+file → `Week1-Basics/Day03-Operators/`
+
+- arithmetic operators `+`, `-`, `*`, `/`, `%` are used for calculations.
+- `%` gives the remainder — useful to check even or odd numbers.
+- `Scanner` class is used to take input from the user through keyboard.
+- always check if divisor is `0` before dividing — dividing by zero causes an error.
+- two numbers can be swapped without a third variable using `+` and `-` operators.
+- simple interest formula is `SI = (P * R * T) / 100`.
 
 ---
 
