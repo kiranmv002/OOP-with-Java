@@ -47,6 +47,17 @@ file → `Week1-Basics/Day03-Operators/`
 
 ---
 
+### ✅ day 4 — if else
+
+file → `Week2-Conditions-Loops-Arrays/Day04-IfElse/`
+
+- if else is used to check conditions and run different blocks of code.
+- else if ladder is used when there are multiple conditions to check.
+- leap year logic was tricky — divisible by 4 but not 100, unless divisible by 400.
+- `&&` means both conditions must be true, `||` means at least one must be true.
+
+---
+
 ## 📈 Progress
 
 ### Week 1 — Basics
@@ -55,7 +66,7 @@ file → `Week1-Basics/Day03-Operators/`
 - [x] Day 03 - Operators
 
 ### Week 2 — Conditions, Loops, Arrays
-- [ ] Day 04 - If-Else
+- [x] Day 04 - If-Else
 - [ ] Day 05 - Switch
 - [ ] Day 06 - Loops
 - [ ] Day 07 - Arrays
