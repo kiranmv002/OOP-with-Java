@@ -78,7 +78,7 @@ file → `Week2-Conditions-Loops-Arrays/Day05-Switch/`
 
 ### Week 2 — Conditions, Loops, Arrays
 - [x] Day 04 - If-Else
-- [ ] Day 05 - Switch
+- [x] Day 05 - Switch
 - [ ] Day 06 - Loops
 - [ ] Day 07 - Arrays
 
