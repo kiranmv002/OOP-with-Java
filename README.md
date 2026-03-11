@@ -58,6 +58,17 @@ file → `Week2-Conditions-Loops-Arrays/Day04-IfElse/`
 
 ---
 
+### ✅ day 5 — switch
+
+file → `Week2-Conditions-Loops-Arrays/Day05-Switch/`
+
+- switch is cleaner than if else when checking one variable against many values.
+- every case needs a `break` otherwise it falls through to next case.
+- `default` handles any input that doesnt match any case.
+- used `charAt(0)` to read a single character from scanner.
+
+---
+
 ## 📈 Progress
 
 ### Week 1 — Basics
