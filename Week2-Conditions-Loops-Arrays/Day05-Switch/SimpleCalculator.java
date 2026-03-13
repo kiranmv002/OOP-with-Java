@@ -1,6 +1,7 @@
 // day 5 - simple calculator using switch
 // user enters two numbers and an operator
 // switch checks which operator and does the calculation
+
 import java.util.Scanner;
 
 public class SimpleCalculator {
@@ -15,3 +16,16 @@ public class SimpleCalculator {
 
         System.out.print("enter second number: ");
         double b = sc.nextDouble();
+
+        switch (op) {
+            case '+': System.out.println("result = " + (a + b)); break;
+            case '-': System.out.println("result = " + (a - b)); break;
+            case '*': System.out.println("result = " + (a * b)); break;
+            case '/':
+                if (b == 0) System.out.println("cant divide by zero");
+                else System.out.println("result = " + (a / b));
+                break;
+            default: System.out.println("invalid operator");
+        }
+    }
+}
