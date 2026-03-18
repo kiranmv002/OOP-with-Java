@@ -69,6 +69,14 @@ file → `Week2-Conditions-Loops-Arrays/Day05-Switch/`
 
 ---
 
+### ✅ day 6 — loops
+ 
+file → `Week2-Conditions-Loops-Arrays/Day06-Loops/`
+ 
+- for loop is used when we know how many times to repeat.
+- while loop is used when we dont know how many times.
+
+ 
 ## 📈 Progress
 
 ### Week 1 — Basics
