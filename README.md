@@ -68,14 +68,18 @@ file → `Week2-Conditions-Loops-Arrays/Day05-Switch/`
 - used `charAt(0)` to read a single character from scanner.
 
 ---
-
+ 
 ### ✅ day 6 — loops
  
 file → `Week2-Conditions-Loops-Arrays/Day06-Loops/`
  
 - for loop is used when we know how many times to repeat.
 - while loop is used when we dont know how many times.
-
+- do while runs at least once even if condition is false.
+- fibonacci — each number is sum of previous two numbers.
+- prime number — check divisibility from 2 to n/2, no need to go till n.
+- armstrong number — sum of cubes of digits equals the number. example: 153.
+ 
  
 ## 📈 Progress
 
