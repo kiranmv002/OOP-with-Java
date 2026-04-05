@@ -92,7 +92,7 @@ file → `Week2-Conditions-Loops-Arrays/Day06-Loops/`
 - [x] Day 04 - If-Else
 - [x] Day 05 - Switch
 - [x] Day 06 - Loops
-- [ ] Day 07 - Arrays
+- [x] Day 07 - Arrays
 
 ### Week 3 — Methods & Strings
 - [ ] Day 08 - Methods
