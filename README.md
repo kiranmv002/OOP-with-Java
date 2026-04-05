@@ -79,7 +79,15 @@ file → `Week2-Conditions-Loops-Arrays/Day06-Loops/`
 - fibonacci — each number is sum of previous two numbers.
 - prime number — check divisibility from 2 to n/2, no need to go till n.
 - armstrong number — sum of cubes of digits equals the number. example: 153.
+
+---
+
+### ✅ day 7 — arrays
  
+file → `Week2-Conditions-Loops-Arrays/Day07-Arrays/`
+ 
+- array stores multiple values of same type, index starts from 0.
+- for each loop is a cleaner way to loop through an array.
  
 ## 📈 Progress
 
