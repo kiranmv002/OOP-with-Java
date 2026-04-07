@@ -107,7 +107,7 @@ file → `Week2-Conditions-Loops-Arrays/Day07-Arrays/`
 
 ### Week 3 — Methods & Strings
 - [x] Day 08 - Methods
-- [ ] Day 09 - String Handling
+- [x] Day 09 - String Handling
 
 ### Week 4 — OOP Basics
 - [ ] Day 10 - Classes & Objects
