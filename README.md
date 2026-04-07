@@ -103,7 +103,7 @@ file → `Week2-Conditions-Loops-Arrays/Day07-Arrays/`
 - [x] Day 07 - Arrays
 
 ### Week 3 — Methods & Strings
-- [ ] Day 08 - Methods
+- [x] Day 08 - Methods
 - [ ] Day 09 - String Handling
 
 ### Week 4 — OOP Basics
