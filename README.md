@@ -87,9 +87,10 @@ file → `Week2-Conditions-Loops-Arrays/Day06-Loops/`
 file → `Week2-Conditions-Loops-Arrays/Day07-Arrays/`
  
 - array stores multiple values of same type, index starts from 0.
-- array stores multiple values of same type, index starts from 0.
 - for each loop is a cleaner way to loop through an array.
 - to find largest — assume first element is largest then compare with rest.
+- to reverse — loop from last index to first index.
+- bubble sort — compare adjacent elements and swap if wrong order, biggest bubbles to end.
  
 ## 📈 Progress
 
