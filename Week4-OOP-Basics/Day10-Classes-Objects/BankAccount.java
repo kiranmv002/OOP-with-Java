@@ -28,3 +28,18 @@ public class BankAccount {
         System.out.println("account owner: " + owner);
         System.out.println("current balance: " + balance);
     }
+
+    public static void main(String[] args) {
+        BankAccount acc = new BankAccount();
+        acc.owner = "kiran";
+        acc.balance = 1000;
+
+        acc.display();
+        System.out.println();
+        acc.deposit(500);
+        System.out.println();
+        acc.withdraw(200);
+        System.out.println();
+        acc.withdraw(2000); // should say not enough balance
+    }
+}
