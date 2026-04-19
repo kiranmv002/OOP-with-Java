@@ -23,3 +23,14 @@ public class ParameterizedConstructor {
         System.out.println("marks: " + marks);
     }
 
+    public static void main(String[] args) {
+        // passing values directly when creating object
+        ParameterizedConstructor s1 = new ParameterizedConstructor("kiran", 20, 85.5f);
+        s1.display();
+
+        System.out.println();
+
+        ParameterizedConstructor s2 = new ParameterizedConstructor("rahul", 21, 92.0f);
+        s2.display();
+    }
+}
