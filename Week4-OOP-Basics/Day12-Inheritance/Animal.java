@@ -19,3 +19,41 @@ public class Animal {
     }
 }
 
+// Dog inherits from Animal
+class Dog extends Animal {
+
+    String breed;
+
+    void fetch() {
+        System.out.println(name + " is fetching the ball");
+    }
+}
+
+// Cat inherits from Animal
+class Cat extends Animal {
+
+    void purr() {
+        System.out.println(name + " is purring");
+    }
+}
+
+class AnimalMain {
+    public static void main(String[] args) {
+        Dog d = new Dog();
+        d.name = "tommy";
+        d.sound = "woof";
+        d.breed = "labrador";
+        d.eat();        // inherited from Animal
+        d.makeSound();  // inherited from Animal
+        d.fetch();      // Dog's own method
+
+        System.out.println();
+
+        Cat c = new Cat();
+        c.name = "kitty";
+        c.sound = "meow";
+        c.eat();        // inherited from Animal
+        c.makeSound();  // inherited from Animal
+        c.purr();       // Cat's own method
+    }
+}
