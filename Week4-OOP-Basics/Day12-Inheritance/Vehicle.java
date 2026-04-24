@@ -27,3 +27,33 @@ class Car2 extends Vehicle {
     }
 }
 
+class Bike extends Vehicle {
+
+    boolean hasGear;
+
+    void wheelie() {
+        System.out.println(brand + " doing a wheelie!");
+    }
+}
+
+class VehicleMain {
+    public static void main(String[] args) {
+        Car2 car = new Car2();
+        car.brand = "toyota";
+        car.speed = 120;
+        car.doors = 4;
+        car.start();
+        car.honk();
+        car.stop();
+
+        System.out.println();
+
+        Bike bike = new Bike();
+        bike.brand = "yamaha";
+        bike.speed = 100;
+        bike.hasGear = true;
+        bike.start();
+        bike.wheelie();
+        bike.stop();
+    }
+}
