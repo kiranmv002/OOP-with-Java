@@ -38,3 +38,25 @@ class Developer extends Employee {
         System.out.println(name + " is coding in " + language);
     }
 }
+
+class EmployeeMain {
+    public static void main(String[] args) {
+        Manager m = new Manager();
+        m.name = "kiran";
+        m.salary = 80000;
+        m.department = "engineering";
+        m.teamSize = 10;
+        m.displayInfo();
+        m.manage();
+
+        System.out.println();
+
+        Developer d = new Developer();
+        d.name = "rahul";
+        d.salary = 60000;
+        d.department = "engineering";
+        d.language = "java";
+        d.displayInfo();
+        d.code();
+    }
+}
