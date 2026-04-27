@@ -22,3 +22,14 @@ class Cat2 extends Animal2 {
         System.out.println("cat says meow");
     }
 }
+
+public class RuntimePolymorphism {
+    public static void main(String[] args) {
+        // parent reference, child object
+        Animal2 a1 = new Dog2();
+        Animal2 a2 = new Cat2();
+
+        a1.sound(); // calls Dog's sound
+        a2.sound(); // calls Cat's sound
+    }
+}
