@@ -43,3 +43,18 @@ class Cat3 extends Animal3 {
         System.out.println(name + " says meow!");
     }
 }
+
+public class AbstractAnimal {
+    public static void main(String[] args) {
+        Dog3 d = new Dog3("tommy");
+        d.sound();
+        d.eat();
+        d.sleep();
+
+        System.out.println();
+
+        Cat3 c = new Cat3("kitty");
+        c.sound();
+        c.eat();
+    }
+}
