@@ -46,3 +46,16 @@ class Photo implements Printable, Showable {
         System.out.println("showing photo: " + name);
     }
 }
+
+public class Printable {
+    public static void main(String[] args) {
+        Document doc = new Document("my resume");
+        doc.print();
+
+        System.out.println();
+
+        Photo p = new Photo("vacation.jpg");
+        p.print();
+        p.show();
+    }
+}
