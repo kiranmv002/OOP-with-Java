@@ -39,3 +39,12 @@ class Duck implements Flyable, Swimmable, Runnable2 {
         System.out.println(name + " is running");
     }
 }
+
+public class MultipleInterface {
+    public static void main(String[] args) {
+        Duck d = new Duck("donald");
+        d.fly();
+        d.swim();
+        d.run();
+    }
+}
