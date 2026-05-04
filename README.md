@@ -115,7 +115,7 @@ file → `Week2-Conditions-Loops-Arrays/Day07-Arrays/`
 
 ### Week 4 — OOP Basics
 - [x] Day 10 - Classes & Objects
-- [ ] Day 11 - Inheritance
+- [x] Day 11 - Inheritance
 
 ### Week 5 — OOP Advanced
 - [ ] Day 12 - Polymorphism
