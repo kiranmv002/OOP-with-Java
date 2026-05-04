@@ -91,6 +91,10 @@ file → `Week2-Conditions-Loops-Arrays/Day07-Arrays/`
 - to find largest — assume first element is largest then compare with rest.
 - to reverse — loop from last index to first index.
 - bubble sort — compare adjacent elements and swap if wrong order, biggest bubbles to end.
+
+---
+
+### ✅ day 8 — Methods
  
 ## 📈 Progress
 
