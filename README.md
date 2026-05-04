@@ -110,7 +110,7 @@ file → `Week2-Conditions-Loops-Arrays/Day07-Arrays/`
 - [x] Day 09 - String Handling
 
 ### Week 4 — OOP Basics
-- [ ] Day 10 - Classes & Objects
+- [x] Day 10 - Classes & Objects
 - [ ] Day 11 - Inheritance
 
 ### Week 5 — OOP Advanced
