@@ -103,6 +103,20 @@ file → `Week3-Methods-Strings/Day08-Methods/`
 - recursion — method calling itself, base case is important otherwise it runs forever.
 - moved prime check logic into a separate method, feels much cleaner.
 
+
+
+---
+ 
+### ✅ day 9 — strings
+ 
+file → `Week3-Methods-Strings/Day09-Strings/`
+ 
+- string has lots of built in methods like `length()`, `toUpperCase()`, `charAt()`.
+- always use `.equals()` to compare strings, not `==`.
+- palindrome — reverse the string and compare with original.
+- anagram — sort both strings and compare, if equal they are anagrams.
+- counted vowels by looping through each character and checking if its a, e, i, o, u.
+
 ---
 
 ## 📈 Progress
