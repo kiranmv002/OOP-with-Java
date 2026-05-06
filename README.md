@@ -93,9 +93,18 @@ file → `Week2-Conditions-Loops-Arrays/Day07-Arrays/`
 - bubble sort — compare adjacent elements and swap if wrong order, biggest bubbles to end.
 
 ---
-
-### ✅ day 8 — Methods
  
+### ✅ day 8 — methods
+ 
+file → `Week3-Methods-Strings/Day08-Methods/`
+ 
+- method is a block of code that does a specific task, define once use many times.
+- method overloading — same name different parameters, java picks the right one.
+- recursion — method calling itself, base case is important otherwise it runs forever.
+- moved prime check logic into a separate method, feels much cleaner.
+
+---
+
 ## 📈 Progress
 
 ### Week 1 — Basics
