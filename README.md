@@ -141,7 +141,7 @@ file → `Week3-Methods-Strings/Day09-Strings/`
 - [x] Day 11 - Inheritance
 
 ### Week 5 — OOP Advanced
-- [ ] Day 12 - Polymorphism
+- [x] Day 12 - Polymorphism
 - [ ] Day 13 - Abstraction & Interfaces
 
 ### Week 6 — Advanced Java
