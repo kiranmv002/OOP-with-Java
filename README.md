@@ -140,6 +140,17 @@ file → `Week4-OOP-Basics/Day11-Constructors/`
 - `this` keyword refers to current object — used to avoid confusion between field and parameter.
 
 ---
+ 
+### ✅ day 12 — inheritance
+ 
+file → `Week4-OOP-Basics/Day12-Inheritance/`
+ 
+- inheritance lets child class get all properties and methods of parent class.
+- `extends` keyword is used for inheritance.
+- dog and cat both get `eat()` from animal but have their own methods.
+- manager and developer both extend employee and share name and salary.
+
+---
 
 ## 📈 Progress
 
