@@ -118,6 +118,17 @@ file → `Week3-Methods-Strings/Day09-Strings/`
 - counted vowels by looping through each character and checking if its a, e, i, o, u.
 
 ---
+ 
+### ✅ day 10 — classes and objects
+ 
+file → `Week4-OOP-Basics/Day10-Classes-Objects/`
+ 
+- class is a blueprint, object is the real thing created from it.
+- variables inside class are called fields, functions are called methods.
+- made student, bank account and car classes to practice.
+- bank account was fun — added deposit, withdraw and balance check.
+
+---
 
 ## 📈 Progress
 
