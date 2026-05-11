@@ -129,6 +129,17 @@ file → `Week4-OOP-Basics/Day10-Classes-Objects/`
 - bank account was fun — added deposit, withdraw and balance check.
 
 ---
+ 
+### ✅ day 11 — constructors
+ 
+file → `Week4-OOP-Basics/Day11-Constructors/`
+ 
+- constructor runs automatically when object is created, same name as class.
+- default constructor sets initial values with no parameters.
+- parameterized constructor lets us pass values at the time of object creation.
+- `this` keyword refers to current object — used to avoid confusion between field and parameter.
+
+---
 
 ## 📈 Progress
 
