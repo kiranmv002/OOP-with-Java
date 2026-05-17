@@ -175,7 +175,7 @@ file → `Week4-OOP-Basics/Day12-Inheritance/`
 
 ### Week 5 — OOP Advanced
 - [x] Day 12 - Polymorphism
-- [ ] Day 13 - Abstraction & Interfaces
+- [x] Day 13 - Abstraction & Interfaces
 
 ### Week 6 — Advanced Java
 - [ ] Day 14 - Collections
