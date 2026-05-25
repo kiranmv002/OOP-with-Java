@@ -200,7 +200,7 @@ file → `Week5-OOP-Advanced/Day14-Abstraction/`
 - [x] Day 13 - Abstraction & Interfaces
 
 ### Week 6 — Advanced Java
-- [ ] Day 14 - Collections
+- [x] Day 14 - Collections
 - [ ] Day 15 - Exception Handling
 
 ---
