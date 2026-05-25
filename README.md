@@ -163,6 +163,17 @@ file → `Week5-OOP-Advanced/Day13-Polymorphism/`
 
 ---
 
+### ✅ day 14 — abstraction
+ 
+file → `Week5-OOP-Advanced/Day14-Abstraction/`
+ 
+- abstract class cant be created directly, it is meant to be extended.
+- abstract method has no body — child class must provide the body.
+- used abstract shape class with circle and rectangle as child classes.
+- every animal makes different sound so `sound()` was made abstract.
+
+---
+
 ## 📈 Progress
 
 ### Week 1 — Basics
