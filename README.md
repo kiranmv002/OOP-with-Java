@@ -151,7 +151,17 @@ file → `Week4-OOP-Basics/Day12-Inheritance/`
 - manager and developer both extend employee and share name and salary.
 
 ---
-### ✅ day 13 
+ 
+### ✅ day 13 — polymorphism
+ 
+file → `Week5-OOP-Advanced/Day13-Polymorphism/`
+ 
+- polymorphism means one thing in many forms.
+- method overloading — same name different parameters, decided at compile time.
+- method overriding — child redefines parent method, decided at runtime.
+- parent reference can point to child object — java calls the right method at runtime.
+
+---
 
 ## 📈 Progress
 
