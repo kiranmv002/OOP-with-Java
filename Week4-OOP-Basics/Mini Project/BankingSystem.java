@@ -81,3 +81,36 @@ public class BankingSystem {
 
             int choice = sc.nextInt();
 
+            switch (choice) {
+                case 1:
+                    createAccount();
+                    break;
+                case 2:
+                    System.out.print("enter account no: ");
+                    Account a1 = findAccount(sc.nextInt());
+                    if (a1 == null) { System.out.println("account not found!"); break; }
+                    System.out.print("enter amount: ");
+                    a1.deposit(sc.nextDouble());
+                    break;
+                case 3:
+                    System.out.print("enter account no: ");
+                    Account a2 = findAccount(sc.nextInt());
+                    if (a2 == null) { System.out.println("account not found!"); break; }
+                    System.out.print("enter amount: ");
+                    a2.withdraw(sc.nextDouble());
+                    break;
+                case 4:
+                    System.out.print("enter account no: ");
+                    Account a3 = findAccount(sc.nextInt());
+                    if (a3 == null) { System.out.println("account not found!"); break; }
+                    a3.display();
+                    break;
+                case 5:
+                    System.out.println("bye!");
+                    return;
+                default:
+                    System.out.println("invalid choice!");
+            }
+        }
+    }
+}
