@@ -199,9 +199,12 @@ file → `Week5-OOP-Advanced/Day14-Abstraction/`
 - [x] Day 12 - Polymorphism
 - [x] Day 13 - Abstraction & Interfaces
 
+
 ### Week 6 — Advanced Java
-- [x] Day 14 - Collections
-- [ ] Day 15 - Exception Handling
+- [x] Day 16 - ArrayList
+- [x] Day 17 - HashMap
+- [x] Day 18 - Exception Handling
+- [x] Day 19 - Mini Project
 
 ---
 
