@@ -173,6 +173,17 @@ file → `Week5-OOP-Advanced/Day14-Abstraction/`
 - every animal makes different sound so `sound()` was made abstract.
 
 ---
+ 
+### ✅ day 15 — interfaces
+ 
+file → `Week5-OOP-Advanced/Day15-Interfaces/`
+ 
+- interface is like a contract — any class implementing it must define all methods.
+- a class can implement multiple interfaces — this is how java handles multiple inheritance.
+- duck implemented flyable, swimmable and runnable at the same time.
+- difference between abstract class and interface took a while to understand.
+
+---
 
 ## 📈 Progress
 
