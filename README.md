@@ -184,6 +184,14 @@ file → `Week5-OOP-Advanced/Day15-Interfaces/`
 - difference between abstract class and interface took a while to understand.
 
 ---
+ 
+### ✅ day 16 — arraylist
+ 
+file → `Week6-Collections-Exceptions/Day16-ArrayList/`
+ 
+
+
+---
 
 ## 📈 Progress
 
