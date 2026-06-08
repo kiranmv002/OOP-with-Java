@@ -196,6 +196,17 @@ file → `Week6-Collections-Exceptions/Day16-ArrayList/`
 - no need to define size at start, that is the biggest advantage over arrays.
   
 ---
+ 
+### ✅ day 17 — hashmap
+ 
+file → `Week6-Collections-Exceptions/Day17-HashMap/`
+ 
+- hashmap stores key value pairs, like a dictionary.
+- keys are unique, values can repeat.
+- `put()`, `get()`, `remove()`, `containsKey()` are the main methods.
+- used hashmap to count how many times each word appears in a sentence.
+
+---
 
 ## 📈 Progress
 
