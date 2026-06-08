@@ -218,6 +218,15 @@ file → `Week6-Collections-Exceptions/Day18-ExceptionHandling/`
 - made a custom exception class by extending `Exception`.
 - caught multiple exceptions separately using multiple catch blocks.
 ---
+ 
+### ✅ day 19 — mini project (banking system)
+ 
+file → `Week6-Collections-Exceptions/Day19-MiniProject/BankingSystem.java`
+ 
+- built a simple banking system using everything learned in 6 weeks.
+
+
+---
 
 ## 📈 Progress
 
