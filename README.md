@@ -207,6 +207,17 @@ file → `Week6-Collections-Exceptions/Day17-HashMap/`
 - used hashmap to count how many times each word appears in a sentence.
 
 ---
+ 
+### ✅ day 18 — exception handling
+ 
+file → `Week6-Collections-Exceptions/Day18-ExceptionHandling/`
+ 
+- exception is an error that happens at runtime, program crashes without handling.
+- `try catch` is used to handle exceptions and keep program running.
+- `finally` block always runs even if exception happens — good for cleanup.
+- made a custom exception class by extending `Exception`.
+- caught multiple exceptions separately using multiple catch blocks.
+---
 
 ## 📈 Progress
 
