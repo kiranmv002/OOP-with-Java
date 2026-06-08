@@ -223,8 +223,10 @@ file → `Week6-Collections-Exceptions/Day18-ExceptionHandling/`
  
 file → `Week6-Collections-Exceptions/Day19-MiniProject/BankingSystem.java`
  
-- built a simple banking system using everything learned in 6 weeks.
-
+- built a simple banking system using everything learned in 6 weeks.-
+- used classes, objects, constructors, arraylist, exception handling all together.
+- user can create account, deposit, withdraw and check balance.
+- felt good to put everything together in one project 💪
 
 ---
 
