@@ -183,14 +183,18 @@ file → `Week5-OOP-Advanced/Day15-Interfaces/`
 - duck implemented flyable, swimmable and runnable at the same time.
 - difference between abstract class and interface took a while to understand.
 
+
 ---
  
 ### ✅ day 16 — arraylist
  
 file → `Week6-Collections-Exceptions/Day16-ArrayList/`
  
-
-
+- arraylist is like an array but size grows and shrinks automatically.
+- `add()`, `remove()`, `get()`, `contains()`, `size()` are the main methods.
+- removed duplicates by checking if element already exists before adding.
+- no need to define size at start, that is the biggest advantage over arrays.
+  
 ---
 
 ## 📈 Progress
